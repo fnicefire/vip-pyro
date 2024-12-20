@@ -1,13 +1,17 @@
 {
-    "name": "ecommerce-backend",
-    "version": "1.0.0",
-    "description": "Backend per il sito e-commerce",
-    "main": "server.js",
-    "scripts": {
-        "start": "node server.js"
-    },
-    "dependencies": {
-        "express": "^4.18.2",
-        "pg": "^8.7.1"
-    }
+  "name": "my-ecommerce-site",
+  "version": "1.0.0",
+  "description": "A simple e-commerce site with Node.js backend and frontend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
